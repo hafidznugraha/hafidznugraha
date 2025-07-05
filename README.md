@@ -14,7 +14,7 @@
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,codeigniter,vscode,windows" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
 </p>
 
