@@ -19,6 +19,7 @@
   <img src="https://github.com/thaitea609/thaitea609/blob/main/assets/kalilinux.png?raw=true" alt="Kali Linux" width="40" height="40" />
   <img src="https://github.com/thaitea609/thaitea609/blob/main/assets/codeigniter.png?raw=true" alt="Codeigniter" width="40" height="40" />
   <img src="https://github.com/thaitea609/thaitea609/blob/main/assets/bootstrap.png?raw=true" alt="Bootstrap" width="40" height="40" />
+  <img src="https://github.com/thaitea609/thaitea609/blob/main/assets/python.png?raw=true" alt="Python" width="40" height="40" />
 </p>
 
 ---
