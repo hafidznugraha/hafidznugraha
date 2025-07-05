@@ -3,7 +3,7 @@
 
 - 🔭 Sedang mengerjakan: **Sistem Absensi Sekolah dengan CodeIgniter 4**
 - 🌱 Saat ini belajar: **CI4, Backend PHP, Database**
-- 👨‍💻 Semua projek ada di [github.com/hafidznugraha](https://github.com/hafidznugraha)
+- 👨‍💻 Semua projek ada di [github.com/thaitea609](https://github.com/thaitea609)
 - 💬 Tanya aku tentang: **Web Dev, Sistem Informasi**
 - 📫 Hubungi aku lewat: **nugrahahafidz02@gmail.com**
 - ⚡ Fun fact: Aku ngoding sambil LDR-an 😄
