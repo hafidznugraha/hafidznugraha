@@ -7,6 +7,7 @@
 - 👨‍💻 Semua proyek gua simpan di: [github.com/thaitea609](https://github.com/thaitea609)
 - 💬 Bisa tanya gua soal: **Web Dev, Sistem Informasi**
 - 📫 Kontak gua di: [nugrahahafidz02@gmail.com](mailto:nugrahahafidz02@gmail.com)
+- 💼 LinkedIn: [hafidz-nugraha-sisfo-unjani](https://www.linkedin.com/in/hafidz-nugraha-sisfo-unjani)
 - 😄 Fun fact: Gua malas ngoding wkwkwkkw
 
 ---
