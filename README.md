@@ -4,7 +4,7 @@
 - ✅ Baru menyelesaikan: **Sistem Absensi Sekolah** berbasis web
 - 🧠 Saat ini lagi cari ide baru, rencana mau bikin: **Sistem Pengaduan Masyarakat**
 - 🌱 Lagi eksplorasi berbagai teknologi web development
-- 👨‍💻 Semua proyek gua simpan di: [github.com/thaitea609](https://github.com/thaitea609)
+- 👨‍💻 Semua proyek gua simpan di: [GitHub: Hafidz Nugraha](https://github.com/hafidznugraha)
 - 💬 Bisa tanya gua soal: **Web Dev, Sistem Informasi**
 - 📫 Kontak gua di: [nugrahahafidz02@gmail.com](mailto:nugrahahafidz02@gmail.com)
 - 💼 LinkedIn: [Hafidz Nugraha](https://www.linkedin.com/in/hafidz-nugraha-sisfo-unjani)
@@ -27,5 +27,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaitea609&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafidznugraha&show_icons=true&theme=tokyonight" />
 </p>
