@@ -16,7 +16,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,vscode,windows" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40" />
 </p>
 
 ---
