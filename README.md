@@ -7,7 +7,7 @@
 - 👨‍💻 Semua proyek aku simpan di: [github.com/thaitea609](https://github.com/thaitea609)
 - 💬 Bisa tanya aku soal: **Web Dev, Sistem Informasi**
 - 📫 Kontak aku di: [nugrahahafidz02@gmail.com](mailto:nugrahahafidz02@gmail.com)
-- 😄 Fun fact: Aku ngoding sambil LDR-an ❤️
+- 😄 Fun fact: Gwehj malas ngoding.
 
 ---
 
