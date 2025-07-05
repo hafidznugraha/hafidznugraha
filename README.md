@@ -16,7 +16,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,vscode,windows" />
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40" />
+  <img src="https://github.com/thaitea609/thaitea609/blob/main/assets/KaliNaga.png?raw=true" alt="Kali Linux" width="40" height="40" />
 </p>
 
 ---
