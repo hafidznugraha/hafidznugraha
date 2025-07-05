@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hafidz Nugraha</h1>
+<h3 align="center">Mahasiswa Sistem Informasi | Web Developer | Belajar TI sambil ngulik kopi ☕</h3>
 
-<!--
-**thaitea609/thaitea609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sedang mengerjakan: **Sistem Absensi Sekolah dengan CodeIgniter 4**
+- 🌱 Saat ini belajar: **CI4, Backend PHP, Database**
+- 👨‍💻 Semua projek ada di [github.com/hafidznugraha](https://github.com/hafidznugraha)
+- 💬 Tanya aku tentang: **Web Dev, Sistem Informasi**
+- 📫 Hubungi aku lewat: **nugrahahafidz02@gmail.com**
+- ⚡ Fun fact: Aku ngoding sambil LDR-an 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,codeigniter,mysql,linux,git,vscode" />
+</p>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafidznugraha&show_icons=true&theme=tokyonight" />
+</p>
