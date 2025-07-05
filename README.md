@@ -6,7 +6,7 @@
 - 🌱 Lagi eksplorasi berbagai teknologi web development
 - 👨‍💻 Semua proyek gua simpan di: [github.com/thaitea609](https://github.com/thaitea609)
 - 💬 Bisa tanya gua soal: **Web Dev, Sistem Informasi**
-- 📫 Kontak aku di: [nugrahahafidz02@gmail.com](mailto:nugrahahafidz02@gmail.com)
+- 📫 Kontak gua di: [nugrahahafidz02@gmail.com](mailto:nugrahahafidz02@gmail.com)
 - 😄 Fun fact: Gua malas ngoding wkwkwkkw
 
 ---
