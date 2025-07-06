@@ -6,7 +6,7 @@
 - 🌱 Lagi eksplorasi berbagai teknologi web development
 - 👨‍💻 Semua proyek gua simpan di: [GitHub: Hafidz Nugraha](https://github.com/hafidznugraha)
 - 💬 Bisa tanya gua soal: **Web Dev, Sistem Informasi**
-- 📫 Kontak gua di: [nugrahahafidz02@gmail.com](mailto:nugrahahafidz02@gmail.com)
+- 📫 Kontak gua di: [Email](mailto:nugrahahafidz02@gmail.com)
 - 💼 LinkedIn: [Hafidz Nugraha](https://www.linkedin.com/in/hafidz-nugraha-sisfo-unjani)
 - 😄 Fun fact: Gua baru semester 2 wkwk
 
