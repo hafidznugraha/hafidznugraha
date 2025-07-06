@@ -31,8 +31,3 @@
 </p>
 
 ---
-### </
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=thaitea609&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidznugraha&size_weight=0.5&count_weight=0.5)" />
-</p>
