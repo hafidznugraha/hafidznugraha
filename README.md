@@ -7,7 +7,7 @@
 - 👨‍💻 Semua proyek gua simpan di: [GitHub: Hafidz Nugraha](https://github.com/hafidznugraha)
 - 💬 Bisa tanya gua soal: **Web Dev, Sistem Informasi**
 - 📫 Kontak gua di: [Email](mailto:nugrahahafidz02@gmail.com)
-- 💼 LinkedIn: [Hafidz Nugraha](https://www.linkedin.com/in/hafidz-nugraha-sisfo-unjani)
+- 💼 LinkedIn: [Hafidz Nugraha](www.linkedin.com/in/hafidznugraha)
 - 😄 Fun fact: Gua baru semester 2 wkwk
 
 ---
