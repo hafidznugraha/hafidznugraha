@@ -2,7 +2,7 @@
 <h3 align="center">Mahasiswa Sistem Informasi di Universitas Jenderal Achmad Yani | Calon Web Developer | Belajar TI sambil ngulik kopi ☕</h3>
 
 - ✅ Baru menyelesaikan: **Sistem Absensi Sekolah Sederhana** berbasis web
-- 🧠 Saat ini lagi cari ide baru, rencana mau bikin: **Sistem Kegiatan Masyarakat**
+- 🧠 Saat ini lagi cari ide baru, rencana mau bikin: **Lagi cari ide**
 - 🌱 Lagi eksplorasi berbagai teknologi web development
 - 👨‍💻 Semua proyek gua simpan di: [GitHub: Hafidz Nugraha](https://github.com/hafidznugraha)
 - 💬 Bisa tanya gua soal: **Web Dev, Sistem Informasi**
