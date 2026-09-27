@@ -72,8 +72,8 @@ Berpengalaman merancang arsitektur aplikasi web modern dari sisi frontend (*comp
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hafidznugraha&show_icons=true&theme=tokyonight&border_radius=8&include_all_commits=true" height="175" alt="Hafidz's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafidznugraha&layout=compact&theme=tokyonight&border_radius=8" height="175" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hafidznugraha&show_icons=true&theme=tokyonight&border_radius=8&include_all_commits=true&line_height=20" alt="Hafidz's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafidznugraha&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" />
 </p>
 
 ---
