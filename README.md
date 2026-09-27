@@ -37,10 +37,12 @@ Mahasiswa Sistem Informasi di **Universitas Jenderal Achmad Yani (UNJANI)** deng
 
 ### 🚀 Highlight Proyek
 
-| Proyek | Deskripsi | Tech Stack | Status |
+| Proyek | Deskripsi | Tech Stack | Tautan |
 | :--- | :--- | :--- | :---: |
-| 📋 **Sistem Absensi Sekolah** | Aplikasi web pencatatan dan pengelolaan presensi secara efisien | `PHP` `MySQL` `Bootstrap` | 🟢 Selesai |
-| 💡 **Next Project** | Eksplorasi solusi web & integrasi API baru | `HTML` `CSS` `JS` | 🟡 Ide & Konsep |
+| 📋 **Sistem Absensi Sekolah** | Aplikasi web pencatatan & pengelolaan presensi sekolah secara terstruktur | `CodeIgniter 4` `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/ci4-absensi-sekolah-sederhana) |
+| 🛒 **E-Commerce CI4** | Platform e-commerce web dinamis berbasis CodeIgniter 4 | `CodeIgniter 4` `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/ecommerce-ci4) |
+| 💰 **Aplikasi Manajemen Uang** | Web app untuk pencatatan dan pengelolaan keuangan pribadi | `JavaScript` `HTML` `CSS` | [Lihat Repo ↗](https://github.com/hafidznugraha/aplikasi-manajemen-uang) |
+| 🚚 **Laju Armada** | Sistem pengelolaan data armada dan operasional berbasis web | `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/laju-armada) |
 
 ---
 
@@ -65,5 +67,5 @@ Mahasiswa Sistem Informasi di **Universitas Jenderal Achmad Yani (UNJANI)** deng
 ---
 
 <p align="center">
-  <i>"Belajar konsisten setiap hari, satu commit demi satu commit." 🚀</i>
+  <i>"Passionate IS student exploring web dev. Learning fast, dreaming big, and building with purpose." 🚀</i>
 </p>
