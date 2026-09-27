@@ -3,7 +3,7 @@
   <h1>Hi 👋, I'm <span style="color: #61afef;">Hafidz Nugraha</span></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=Mahasiswa+Sistem+Informasi+UNJANI;Aspiring+Web+Developer;Exploring+Modern+Web+Development;Belajar+TI+sambil+ngulik+kopi+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=Mahasiswa+Sistem+Informasi+UNJANI;Fullstack+Web+Developer;Co-Developer+SIMPRO-OBE;React+%26+Supabase+Builder;Belajar+TI+sambil+ngulik+kopi+%E2%98%95" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -24,14 +24,16 @@
 
 ### 👨‍💻 Tentang Saya
 
-Mahasiswa Sistem Informasi di **Universitas Jenderal Achmad Yani (UNJANI)** dengan minat besar dalam dunia **Web Development**. Suka mengeksplorasi ekosistem web modern baik dari sisi frontend maupun backend, merancang database, serta memecahkan masalah melalui kode sambil ditemani secangkir kopi ☕.
+Mahasiswa S1 Sistem Informasi (Semester 5) di **Universitas Jenderal Achmad Yani (UNJANI)** yang berfokus pada **Fullstack Web Development** dan **Database Engineering**. Saat ini dipercaya sebagai **Pengembang Utama / Co-Developer Modul Kerja Praktik (KP)** pada sistem akademik enterprise kampus, **SIMPRO-OBE** (*Outcome-Based Education*).
+
+Berpengalaman merancang arsitektur aplikasi web modern dari sisi frontend (*component-driven, responsive flat layout, skeleton states*) hingga backend (*PostgreSQL Row-Level Security, Database Triggers, PL/pgSQL RPC, Realtime WebSockets, dan Security Hardening*). Suka memecahkan masalah kompleks dan ngulik kode ditemani secangkir kopi ☕.
 
 - 🎓 **Pendidikan**: Mahasiswa S1 Sistem Informasi (Semester 5), Universitas Jenderal Achmad Yani
-- 🎯 **Fokus**: Web Development (PHP, JavaScript, MySQL, Responsive Design)
-- 📌 **Proyek Terkini**: Sistem Informasi Manajemen Kerja Praktik (KP) – SIMPRO OBE
-- 🌱 **Eksplorasi**: Mendalami arsitektur RESTful API & framework web modern
-- 💬 **Bisa Ditanya Soal**: Web Dev dasar, Sistem Informasi, atau rekomendasi kopi favorit
-- 😄 **Fun Fact**: Sudah semester 5, makin antusias mendalami arsitektur sistem dan solusi digital nyata!
+- 🎯 **Fokus Utama**: Modern Web Development, Database Architecture, & Application Security
+- 📌 **Proyek Aktif**: **SIMPRO-OBE** (Sistem Informasi Manajemen Kerja Praktik berbasis OBE untuk UNJANI)
+- 🛡️ **Keahlian Khusus**: Postgres RLS, Realtime Collaboration, Backend Crypto (`pgcrypto`), REST API, & OBE System Flow
+- 💬 **Bisa Ditanya Soal**: Web Dev (React / PHP), Database & RLS, Arsitektur Sistem Informasi, atau kopi favorit
+- 😄 **Fun Fact**: Semester 5 tapi sudah handle arsitektur sistem akademik multi-role dan hardening keamanan!
 
 ---
 
@@ -39,7 +41,7 @@ Mahasiswa Sistem Informasi di **Universitas Jenderal Achmad Yani (UNJANI)** deng
 
 | Proyek | Deskripsi | Tech Stack | Status / Tautan |
 | :--- | :--- | :--- | :---: |
-| 🎓 **SIMPRO OBE** | Sistem Informasi Manajemen Kerja Praktik (KP) berbasis Outcome-Based Education | `Web Based` `PHP` `Database` | 🔄 Sedang Dikembangkan |
+| 🎓 **SIMPRO-OBE (Modul KP)** | Sistem Informasi Manajemen Kerja Praktik berbasis *Outcome-Based Education* untuk UNJANI. Fitur: workflow multi-role (Mahasiswa, Dosen, Koordinator, Kaprodi, Admin), Realtime Chat terenkripsi (`pgcrypto`), Gate Jam Kerja Logbook, Sistem Gugur Pra-Sidang, dan sinkronisasi nilai ke enrollment SIAKAD. | `React` `TypeScript` `Tailwind` `Supabase` `PostgreSQL` | 🔄 Sedang Dikembangkan |
 | 📋 **Sistem Absensi Sekolah** | Aplikasi web pencatatan & pengelolaan presensi sekolah secara terstruktur | `CodeIgniter 4` `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/ci4-absensi-sekolah-sederhana) |
 | 🛒 **E-Commerce CI4** | Platform e-commerce web dinamis berbasis CodeIgniter 4 | `CodeIgniter 4` `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/ecommerce-ci4) |
 | 💰 **Aplikasi Manajemen Uang** | Web app untuk pencatatan dan pengelolaan keuangan pribadi | `JavaScript` `HTML` `CSS` | [Lihat Repo ↗](https://github.com/hafidznugraha/aplikasi-manajemen-uang) |
@@ -47,14 +49,23 @@ Mahasiswa Sistem Informasi di **Universitas Jenderal Achmad Yani (UNJANI)** deng
 
 ---
 
+### 🛡️ Keahlian & Arsitektur Sistem (Core Competencies)
+
+- 🔒 **Database Security & RLS**: Desain kebijakan *Row-Level Security* (RLS) terisolasi berbasis role, pencegahan celah IDOR / BOLA, dan enkripsi simetris backend dengan `pgcrypto`.
+- ⚡ **Realtime Event-Driven**: Implementasi Supabase Realtime WebSockets untuk kolaborasi grup mahasiswa, live status, chat bimbingan, dan notifikasi in-app.
+- ⚙️ **Workflow Gates & Triggers**: Perancangan logika bisnis bertingkat (Administrasi KP, Check Point, Self-Submission Logbook, Sistem Gugur Sidang, & Sinkronisasi Nilai Otomatis ke SIAKAD).
+- 🎨 **Modern Frontend Architecture**: Komponen web responsif berbasis *flat layout*, *skeleton loading states* menyeluruh, dan integrasi Tailwind CSS + shadcn/ui.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 | Kategori | Teknologi |
 | :--- | :--- |
-| **Bahasa Pemrograman** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,py" alt="Languages" /></a> |
-| **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> <a href="https://codeigniter.com" target="_blank"><img src="https://raw.githubusercontent.com/hafidznugraha/hafidznugraha/main/assets/codeigniter.png" alt="CodeIgniter" height="48" style="vertical-align: middle; margin-left: 4px;" title="CodeIgniter" /></a> |
-| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> |
-| **Environment & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,kali" alt="Tools" /></a> |
+| **Bahasa Pemrograman** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css" alt="Languages" /></a> |
+| **Frontend & Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" alt="Frontend" /></a> <a href="https://codeigniter.com" target="_blank"><img src="https://raw.githubusercontent.com/hafidznugraha/hafidznugraha/main/assets/codeigniter.png" alt="CodeIgniter" height="48" style="vertical-align: middle; margin-left: 4px;" title="CodeIgniter" /></a> |
+| **Backend & Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" alt="Backend & Database" /></a> |
+| **Environment & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,kali,postman" alt="Tools" /></a> |
 
 ---
 
