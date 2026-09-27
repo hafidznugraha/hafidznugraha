@@ -26,19 +26,20 @@
 
 Mahasiswa Sistem Informasi di **Universitas Jenderal Achmad Yani (UNJANI)** dengan minat besar dalam dunia **Web Development**. Suka mengeksplorasi ekosistem web modern baik dari sisi frontend maupun backend, merancang database, serta memecahkan masalah melalui kode sambil ditemani secangkir kopi ☕.
 
-- 🎓 **Pendidikan**: Mahasiswa S1 Sistem Informasi (Semester 3), Universitas Jenderal Achmad Yani
+- 🎓 **Pendidikan**: Mahasiswa S1 Sistem Informasi (Semester 5), Universitas Jenderal Achmad Yani
 - 🎯 **Fokus**: Web Development (PHP, JavaScript, MySQL, Responsive Design)
-- 📌 **Proyek Terkini**: Sistem Absensi Sekolah Sederhana berbasis web
+- 📌 **Proyek Terkini**: Sistem Informasi Manajemen Kerja Praktik (KP) – SIMPRO OBE
 - 🌱 **Eksplorasi**: Mendalami arsitektur RESTful API & framework web modern
 - 💬 **Bisa Ditanya Soal**: Web Dev dasar, Sistem Informasi, atau rekomendasi kopi favorit
-- 😄 **Fun Fact**: Masih semester 3, tapi antusiasme ngoding dan belajarnya konsisten!
+- 😄 **Fun Fact**: Sudah semester 5, makin antusias mendalami arsitektur sistem dan solusi digital nyata!
 
 ---
 
 ### 🚀 Highlight Proyek
 
-| Proyek | Deskripsi | Tech Stack | Tautan |
+| Proyek | Deskripsi | Tech Stack | Status / Tautan |
 | :--- | :--- | :--- | :---: |
+| 🎓 **SIMPRO OBE** | Sistem Informasi Manajemen Kerja Praktik (KP) berbasis Outcome-Based Education | `Web Based` `PHP` `Database` | 🔄 Sedang Dikembangkan |
 | 📋 **Sistem Absensi Sekolah** | Aplikasi web pencatatan & pengelolaan presensi sekolah secara terstruktur | `CodeIgniter 4` `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/ci4-absensi-sekolah-sederhana) |
 | 🛒 **E-Commerce CI4** | Platform e-commerce web dinamis berbasis CodeIgniter 4 | `CodeIgniter 4` `PHP` `MySQL` | [Lihat Repo ↗](https://github.com/hafidznugraha/ecommerce-ci4) |
 | 💰 **Aplikasi Manajemen Uang** | Web app untuk pencatatan dan pengelolaan keuangan pribadi | `JavaScript` `HTML` `CSS` | [Lihat Repo ↗](https://github.com/hafidznugraha/aplikasi-manajemen-uang) |
